@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="d" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop stop-color="#4DDCFF" offset="0%"/>
+      <stop stop-color="#35CCFF" offset="100%"/>
+    </linearGradient>
+    <ellipse id="a" cx="30" cy="28" rx="8" ry="7"/>
+    <mask id="e" width="16" height="14" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <linearGradient id="f" x1="11.874%" y1="13.791%" y2="145.517%">
+      <stop stop-color="#4B7CF2" offset="0%"/>
+      <stop stop-color="#4879F0" offset="2.519%"/>
+      <stop stop-color="#1B50CF" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="g" x1="-21.89%" y1="65.704%" y2="50%">
+      <stop stop-color="#2C66BE" offset="0%"/>
+      <stop stop-color="#143689" offset="100%"/>
+    </linearGradient>
+    <ellipse id="b" cx="30" cy="38" rx="7" ry="6"/>
+    <mask id="h" width="14" height="12" x="0" y="0" fill="white">
+      <use xlink:href="#b"/>
+    </mask>
+    <ellipse id="c" cx="30" cy="46" rx="6" ry="5"/>
+    <mask id="i" width="12" height="10" x="0" y="0" fill="white">
+      <use xlink:href="#c"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use stroke="url(#d)" stroke-width="6" mask="url(#e)" xlink:href="#a"/>
+    <path fill="url(#f)" d="M31.5 12.165843L32.1141484 12.165843C33.7744453 12.165843 35.501791 10.8781734 35.9715698 9.29216031L35.7716639 9.96705945C35.9298626 9.43296727 36.5110575 9 37.0573445 9L52.1403246 9C53.7988751 9 54.0670252 9.80987135 52.7519464 10.7993489L45.8403877 15.9996703C43.6380807 17.6567066 39.6063638 19 36.8583278 19L31.5 19 31.5 12.165843zM28.5 12.165843L27.8858516 12.165843C26.2255547 12.165843 24.498209 10.8781734 24.0284302 9.29216031L24.2283361 9.96705945C24.0701374 9.43296727 23.4889425 9 22.9426555 9L7.85967538 9C6.20112494 9 5.93297483 9.80987135 7.24805365 10.7993489L14.1596123 15.9996703C16.3619193 17.6567066 20.3936362 19 23.1416722 19L28.5 19 28.5 12.165843z"/>
+    <path fill="url(#g)" d="M31.6000001,9.36850868 L31.6000001,58.9275024 C31.6000001,59.5137945 31.1229354,60 30.5344464,60 L29.4655536,60 C28.872171,60 28.3999999,59.5198265 28.3999999,58.9275024 L28.3999999,9.36850868 C26.5356921,8.70662874 25.1999998,6.92070883 25.1999998,4.82142857 C25.1999998,2.1586271 27.3490331,0 30,0 C32.6509669,0 34.8000002,2.1586271 34.8000002,4.82142857 C34.8000002,6.92070883 33.4643079,8.70662874 31.6000001,9.36850868 L31.6000001,9.36850868 Z"/>
+    <use stroke="url(#d)" stroke-width="6" mask="url(#h)" xlink:href="#b"/>
+    <use stroke="url(#d)" stroke-width="6" mask="url(#i)" xlink:href="#c"/>
+  </g>
+</svg>

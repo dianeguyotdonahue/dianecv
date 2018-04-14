@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="c" x1="-21.89%" y1="65.704%" y2="50%">
+      <stop stop-color="#2C66BE" offset="0%"/>
+      <stop stop-color="#143689" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="d" x1="-17.815%" y1="50%" y2="50%">
+      <stop stop-color="#5CE6FF" offset="0%"/>
+      <stop stop-color="#2FC8FF" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="e" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop stop-color="#4DDCFF" offset="0%"/>
+      <stop stop-color="#35CCFF" offset="100%"/>
+    </linearGradient>
+    <path id="a" d="M13.9388716,0.502643585 C13.9472788,0.225041199 14.1846872,1.77635684e-15 14.4509441,1.77635684e-15 L19.5286664,1.77635684e-15 C19.803069,1.77635684e-15 20.0323657,0.221431255 20.0410641,0.502643585 L20.9997935,31.4973564 C21.0083803,31.7749588 20.7836685,32 20.5130061,32 L13.4873134,32 C13.2098814,32 12.9916843,31.7785687 13.0002007,31.4973564 L13.9388716,0.502643585 Z"/>
+    <mask id="f" width="8" height="32" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <linearGradient id="g" x1="11.874%" y1="13.791%" y2="145.517%">
+      <stop stop-color="#4B7CF2" offset="0%"/>
+      <stop stop-color="#4879F0" offset="2.519%"/>
+      <stop stop-color="#1B50CF" offset="100%"/>
+    </linearGradient>
+    <path id="b" d="M39.9412125,0.502643585 C39.9496406,0.225041199 40.1902944,1.77635684e-15 40.4602789,1.77635684e-15 L45.6090903,1.77635684e-15 C45.8873347,1.77635684e-15 46.1191316,0.221431255 46.1270502,0.502643585 L46.9998288,31.4973564 C47.0076458,31.7749588 46.7823481,32 46.5117302,32 L39.4871938,32 C39.2098074,32 38.9916641,31.7785687 39.0002018,31.4973564 L39.9412125,0.502643585 Z"/>
+    <mask id="h" width="8" height="32" x="0" y="0" fill="white">
+      <use xlink:href="#b"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#c)" d="M21.3846154,41.5217391 L3.06866932,41.5217391 C2.48412323,41.5217391 2,42.0083668 2,42.6086524 L2,59.4669095 C2,59.7663665 2.24010685,60 2.53629367,60 L57.4637063,60 C57.7503281,60 58,59.7613273 58,59.4669095 L58,42.6086524 C58,42.015988 57.5215404,41.5217391 56.9313307,41.5217391 L38.6153846,41.5217391 L38.6153846,35 L21.3846154,35 L21.3846154,41.5217391 Z"/>
+    <rect width="8" height="3" x="26" y="54" fill="url(#d)" rx=".5"/>
+    <rect width="8" height="3" x="26" y="49" fill="url(#d)" rx=".5"/>
+    <rect width="8" height="3" x="26" y="44" fill="url(#d)" rx=".5"/>
+    <use stroke="url(#e)" stroke-width="8" mask="url(#f)" xlink:href="#a"/>
+    <rect width="10" height="4" x="12" y="28" fill="url(#g)" rx=".5"/>
+    <use stroke="url(#e)" stroke-width="8" mask="url(#h)" xlink:href="#b"/>
+    <rect width="10" height="4" x="38" y="28" fill="url(#g)" rx=".5"/>
+    <rect width="12" height="28" x="11" y="32" fill="url(#g)" rx=".5"/>
+    <rect width="12" height="28" x="37" y="32" fill="url(#g)" rx=".5"/>
+  </g>
+</svg>

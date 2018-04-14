@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <linearGradient id="a" x1="-21.89%" y1="65.704%" y2="50%">
+      <stop stop-color="#2C66BE" offset="0%"/>
+      <stop stop-color="#143689" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-17.815%" y1="50%" y2="50%">
+      <stop stop-color="#5CE6FF" offset="0%"/>
+      <stop stop-color="#2FC8FF" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="c" x1="-16.831%" y1="37.803%" y2="37.803%">
+      <stop stop-color="#418EEA" offset="0%"/>
+      <stop stop-color="#1F55D0" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#a)" d="M1.77635684e-14,25 C1.53664807e-14,38.8675349 11.1959288,50.0633428 25,49.9997303 C24.9363868,36.195808 13.740458,25 1.77635684e-14,25 Z"/>
+    <path fill="url(#b)" d="M25,50 C38.3767289,36.1510791 38.289867,13.7589928 25,3.55271368e-15 C11.6232711,13.8489209 11.710133,36.2410072 25,50 Z"/>
+    <path fill="url(#c)" d="M25,25 C25,38.8675349 36.1959288,50.0633428 50,49.9997303 C49.9363868,36.195808 38.740458,25 25,25 Z" transform="matrix(-1 0 0 1 75 0)"/>
+  </g>
+</svg>

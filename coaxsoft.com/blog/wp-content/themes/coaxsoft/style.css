@@ -1,0 +1,9 @@
+.blog_post-text img{
+	max-width: 100%;
+	height: auto;
+}
+.aligncenter{
+	margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
